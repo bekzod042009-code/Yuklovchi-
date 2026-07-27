@@ -1,0 +1,14 @@
+# Maxfiy token shu yerda saqlanadi (agar shunday usuldan foydalansangiz)
+.env
+
+# Ma'lumotlar bazasi
+*.db
+
+# Vaqtinchalik yuklab olingan fayllar
+downloads/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
